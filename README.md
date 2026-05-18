@@ -21,7 +21,7 @@ The data is stored on the server, the mod is just letting you use it. The bots, 
 A VERY important note, this isn't designed to replace current anticheats or be real-time. This is designed for competitive play, on things like MCTiers as a post-match review tool. It is meant to catch subtle configs & cheaters."
 
 
-I hope the PvPTiers team is interested in Exile, and I also hope that the Minecraft community progresses towards a more positive future with less cheaters.
+I hope the community is interested in Exile, and I also hope that the Minecraft community progresses towards a more positive future with less cheaters.
 Email me back if you need anything else for Exile, or if you have any questions regarding it.
 
 - Feu
